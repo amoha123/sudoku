@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sudoku</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Sudoku</h1>
+      <div class="controls">
+        <button id="newGameBtn">New Game</button>
+        <button id="resetBtn">Reset</button>
+        <label class="toggle">
+          <input type="checkbox" id="notesToggle" />
+          <span>Notes</span>
+        </label>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section id="board" class="board" aria-label="Sudoku board"></section>
+
+      <section class="side">
+        <div class="numpad" id="numpad" aria-label="Number pad">
+          <!-- buttons injected by JS -->
+        </div>
+        <p class="hint" id="status"></p>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
