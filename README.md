@@ -1,9 +1,7 @@
-# 🧩 Sudoku Web Game
+## 🧩 Sudoku Web Game
 
 A modern, responsive Sudoku game built with **HTML, CSS, and JavaScript**.  
 Features keyboard input, live validation, notes mode, and a clean UI.
-
----
 
 ## ✨ Features
 
@@ -19,7 +17,6 @@ Features keyboard input, live validation, notes mode, and a clean UI.
 ## 📁 Project Structure
 
 ```
-
 sudoku/
 │
 ├── index.html # Main HTML file
@@ -31,8 +28,10 @@ sudoku/
 ## ▶️ How to Run
 
 1. Clone the repository:
-```bash
+```
+bash
 git clone https://github.com/your-username/sudoku.git
+```
 
 ## 🎮 Controls
 
@@ -42,7 +41,6 @@ git clone https://github.com/your-username/sudoku.git
 - Use the arrow keys to move between cells  
 - Enable **Notes Mode** to add or remove pencil marks  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +48,6 @@ git clone https://github.com/your-username/sudoku.git
 - **CSS3** (CSS Grid, modern UI styling)  
 - **Vanilla JavaScript**  
 
----
 
 ## 🚀 Future Improvements
 
@@ -60,8 +57,6 @@ git clone https://github.com/your-username/sudoku.git
 - Hint system  
 - Mobile-friendly layout  
 - Save and load game progress  
-
----
 
 ## 📌 Learning Goals
 
@@ -73,14 +68,12 @@ This project was built to practice and strengthen:
 - Constraint validation logic  
 - UI rendering and updates  
 
----
 
 ## 👤 Author
 
 **Abdirahman Mohamed**  
 Computer Science Student — University of California, San Diego  
 
----
 
 ## 📄 License
 
