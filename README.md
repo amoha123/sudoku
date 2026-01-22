@@ -15,8 +15,10 @@ Features keyboard input, live validation, notes mode, and a clean UI.
 - Reset and New Game buttons  
 - Win detection  
 
----
+
 ## 📁 Project Structure
+
+```
 
 sudoku/
 │
@@ -24,7 +26,7 @@ sudoku/
 ├── style.css # Styling and layout
 ├── script.js # Game logic
 └── README.md
----
+```
 
 ## ▶️ How to Run
 
