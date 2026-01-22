@@ -30,7 +30,7 @@ sudoku/
 1. Clone the repository:
 ```
 bash
-git clone https://github.com/amoha/sudoku.git
+git clone https://github.com/amoha123/sudoku.git
 ```
 
 ## 🎮 Controls
